@@ -1,0 +1,16 @@
+.vscode/settings.json
+bin/App.class
+bin/BaiTieuLuanCuoiKi/DanhSachQuanLy.class
+bin/BaiTieuLuanCuoiKi/DienTu.class
+bin/BaiTieuLuanCuoiKi/DuLieuHangHoa.class
+bin/BaiTieuLuanCuoiKi/HangHoa.class
+bin/BaiTieuLuanCuoiKi/LayNgayGioHienTai.class
+bin/BaiTieuLuanCuoiKi/mainTestDrive.class
+bin/BaiTieuLuanCuoiKi/MenuSmall.class
+bin/BaiTieuLuanCuoiKi/SanhSu.class
+bin/BaiTieuLuanCuoiKi/SapXepHangHoa.class
+bin/BaiTieuLuanCuoiKi/SuaXoaHangHoa.class
+bin/BaiTieuLuanCuoiKi/ThemHangHoa.class
+bin/BaiTieuLuanCuoiKi/ThongKeHangHoa.class
+bin/BaiTieuLuanCuoiKi/ThucPham.class
+bin/BaiTieuLuanCuoiKi/TimKiemHangHoa.class
